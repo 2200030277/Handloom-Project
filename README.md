@@ -1,5 +1,5 @@
 # HANDLOOM PROJECT
-Developed an eCommerce platform for handloom products using HTML, CSS, and JavaScript for the frontend, and Java with MySQL on Apache Tomcat for the backend. Features include user authentication, product catalog, cart management, and secure payment integration, with a focus on functionality and cultural aesthetics.
+Developed a dynamic eCommerce platform dedicated to handloom products, combining cultural craftsmanship with modern technology. The frontend leverages JSP (JavaServer Pages) and CSS for an interactive and visually appealing user interface, while the backend is powered by Servlets and Java running on Apache Tomcat, with MySQL serving as the database. The platform offers essential eCommerce features such as user authentication, a product catalog, and cart management, all optimized for a seamless shopping experience. With a focus on both functionality and cultural aesthetics, the application bridges the gap between traditional handloom products and modern online shopping.
 ### 1. Setting up the Environment
 Eclipse IDE: The project is set up in Eclipse IDE as a Dynamic Web Project. This configuration supports the use of servlets and JSPs.
 Tomcat Server: Configured Apache Tomcat v9.0 as the server for running the project. Tomcat has been integrated with Eclipse for seamless deployment and execution.
